@@ -100,19 +100,19 @@ The sales dataset was imported from a CSV file and transformed using Power Query
 
 ### Original dataset
 
-![Original dataset](evidence/01-dataset-original.png)
+![Original dataset](evidence/01-dataset-original)
 
 ### Power Query
 
-![Power Query](evidence/02-power-query.png)
+![Power Query](evidence/02-power-query)
 
 ### Applied steps
 
-![Applied steps](evidence/03-pasos-aplicados.png)
+![Applied steps](evidence/03-pasos-aplicados)
 
 ### Cleaned dataset
 
-![Cleaned dataset](evidence/04-datos-limpios.png)
+![Cleaned dataset](evidence/04-datos-limpios)
 
 ### DAX measures
 
