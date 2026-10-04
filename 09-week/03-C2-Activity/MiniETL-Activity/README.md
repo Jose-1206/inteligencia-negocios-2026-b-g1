@@ -23,7 +23,7 @@ The dataset contains sales information with the following fields:
 
 The original dataset intentionally contained duplicate records, inconsistent text values, unnecessary spaces, and different text formats.
 
-## ETL process
+## ETL Process
 
 The dataset was imported into Power BI using Power Query.
 
@@ -100,27 +100,27 @@ The sales dataset was imported from a CSV file and transformed using Power Query
 
 ### Original dataset
 
-![Original dataset](evidence/01-dataset-original)
+01-dataset-original.png
 
 ### Power Query
 
-![Power Query](evidence/02-power-query)
+02-power-query.png
 
 ### Applied steps
 
-![Applied steps](evidence/03-pasos-aplicados)
+03-pasos-aplicados.png
 
 ### Cleaned dataset
 
-![Cleaned dataset](evidence/04-datos-limpios)
+04-datos-limpios.png
 
-### DAX measures
+### DAX Measures
 
-![DAX measures](evidence/05)
+05.png
 
-### Filter context
+### Filter Context
 
-![Filter context](evidence/06)
+06.png
 
 ## Technologies
 
