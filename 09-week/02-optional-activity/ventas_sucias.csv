@@ -1,0 +1,14 @@
+ID_Venta,Fecha,Producto,Categoria,Cantidad,Precio_Unitario,Ciudad,Vendedor
+1,01/09/2026,Laptop,Tecnologia,2,2500000,Neiva,Carlos
+2,02/09/2026,Mouse,tecnologia,5,80000,Neiva,Ana
+3,03/09/2026,Teclado,TECNOLOGIA,3,150000,Bogota,Pedro
+4,04/09/2026,Silla,Oficina,2,450000,Cali,Ana
+4,04/09/2026,Silla,Oficina,2,450000,Cali,Ana
+5,05/09/2026,Escritorio, oficina ,1,850000,Neiva,Carlos
+6,06/09/2026,Monitor,Tecnologia,2,900000,Bogota,Pedro
+7,07/09/2026,Cuaderno,Papeleria,10,12000,Cali,Ana
+8,08/09/2026,Lapicero,PAPELERIA,20,2500,Neiva,Carlos
+9,09/09/2026,Impresora,Tecnologia,1,750000,Bogota,Pedro
+10,10/09/2026,Silla Gamer,OFICINA,2,1200000,Neiva,Ana
+11,11/09/2026,Mouse Pad, tecnologia ,4,35000,Cali,Carlos
+12,12/09/2026,Carpeta,Papeleria,8,8000,Bogota,Pedro
