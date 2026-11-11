@@ -1,0 +1,25 @@
+﻿producto_id,producto,categoria,precio_lista_cop,costo_unitario_cop
+P001,Consolas producto 1,Consolas,1521000,888000
+P002,Consolas producto 2,Consolas,1475000,1091000
+P003,Consolas producto 3,Consolas,1072000,703000
+P004,Consolas producto 4,Consolas,865000,519000
+P005,Consolas producto 5,Consolas,1223000,893000
+P006,Consolas producto 6,Consolas,1140000,797000
+P007,Videojuegos producto 1,Videojuegos,193000,128000
+P008,Videojuegos producto 2,Videojuegos,172000,108000
+P009,Videojuegos producto 3,Videojuegos,106000,68000
+P010,Videojuegos producto 4,Videojuegos,192000,131000
+P011,Videojuegos producto 5,Videojuegos,164000,108000
+P012,Videojuegos producto 6,Videojuegos,192000,132000
+P013,Accesorios producto 1,Accesorios,109000,81000
+P014,Accesorios producto 2,Accesorios,77000,51000
+P015,Accesorios producto 3,Accesorios,85000,50000
+P016,Accesorios producto 4,Accesorios,76000,48000
+P017,Accesorios producto 5,Accesorios,77000,48000
+P018,Accesorios producto 6,Accesorios,95000,62000
+P019,Perifericos producto 1,Perifericos,248000,165000
+P020,Perifericos producto 2,Perifericos,237000,156000
+P021,Perifericos producto 3,Perifericos,243000,171000
+P022,Perifericos producto 4,Perifericos,262000,191000
+P023,Perifericos producto 5,Perifericos,247000,170000
+P024,Perifericos producto 6,Perifericos,162000,104000

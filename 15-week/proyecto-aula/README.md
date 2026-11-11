@@ -267,3 +267,9 @@ El código, los datos sintéticos, la documentación y las evidencias académica
 **Enlace:** https://github.com/Jose-1206/inteligencia-negocios-2026-b-g1.git
 
 **Carpeta principal:** `15-week/proyecto-aula/`
+
+## Overview & insights
+
+PixelZone Gaming is a fictional gaming retailer based in Neiva, Colombia, that sells video games and accessories through a physical store and an online channel. This business intelligence project analyzes twelve months of synthetic sales and expense data from 2025. The CSV sources were cleaned using Power Query, and their quality issues and transformation steps were documented. The Power BI model uses shared dimensions, DAX measures, and an allocation rule for direct and shared expenses. The simulation shows annual net sales of COP 757,610,150 and an estimated net profit margin of 3.36 percent under the stated financial assumptions. The physical store achieved a higher net profit margin than the online channel, approximately 4.66 percent versus 1.67 percent. We recommend reviewing online commissions and shipping expenses, monitoring the profitability of each product category, and updating the dashboard at every monthly close.
+
+**Nota:** esta sección se mantiene en inglés exclusivamente porque la guía de evaluación la exige; el resto del proyecto se presenta en español.

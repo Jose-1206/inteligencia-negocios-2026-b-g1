@@ -1,0 +1,10 @@
+﻿concepto_id,concepto,tipo_asignacion,canal_destino,clasificacion
+G01,Arriendo,Directo,CAN01,Operacional
+G02,Nomina comercial,Compartido,,Operacional
+G03,Servicios publicos,Directo,CAN01,Operacional
+G04,Publicidad,Compartido,,Operacional
+G05,Plataforma web,Directo,CAN02,Operacional
+G06,Comisiones online,Directo,CAN02,Operacional
+G07,Envios subsidiados,Directo,CAN02,Operacional
+G08,Administracion,Compartido,,Operacional
+G09,Intereses bancarios,Compartido,,Financiero
